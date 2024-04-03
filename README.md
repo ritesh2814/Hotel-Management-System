@@ -7,10 +7,16 @@ The Hotel Management System is a desktop-based application designed to automate 
 Features
 User Roles: The system includes two main user roles: Admin and Receptionist, each with specific privileges and responsibilities.
 Functionality: Key functions include adding new rooms, employees, and drivers, managing room availability and status, and maintaining detailed customer records.
+
+
 Technologies Used
+
 Programming Language: Java
+
 Database: MySQL 5.5 command line client
+
 User Interface: Swing API for graphics programming
+
 Database Structure
 The system utilizes several database tables to store essential information such as customer details, room data, employee records, and login credentials.
 
